@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, sans-serif; 
+    letter-spacing: 0.05em; 
+    background-color: rgb(98, 150, 157);
+}
+.box{
+    background-color: rgb(67, 110, 106);
+    width: 1400px;
+    margin: 15px auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+.date{
+    color: rgb(64, 123, 105);
+}
+.content{
+    border: solid 1px gray;
+    padding: 20px;
+    margin-top: 10px;
+}
+.pic{
+    text-align: center;
+}
+.pic > img{
+    width: 600px;
+}
+
+#main_menu{
+    padding-left: 0px;
+    list-style: none;
+}
+#main_menu li{
+    display: inline-block;
+}
+#main_menu li a{
+    font-family: Arial, sans-serif; 
+    letter-spacing: 0.05em; 
+    text-decoration: none;
+    font-size: large;
+    color: rgb(154, 84, 37);
+    padding: 5px 25px;
+    display: block;
+}
+#main_menu li a:hover{
+    font-family: Arial, sans-serif; 
+    letter-spacing: 0.05em; 
+    color: brown;
+}
