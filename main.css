@@ -1,20 +1,20 @@
 body{
     font-family: Arial, sans-serif; 
     letter-spacing: 0.05em; 
-    background-color: rgb(98, 150, 157);
+    background-color: rgb(71, 50, 39);
 }
 .box{
-    background-color: rgb(67, 110, 106);
+    background-color: rgb(123, 102, 73);
     width: 1400px;
     margin: 15px auto;
     padding: 25px;
     border-radius: 20px;
 }
 .date{
-    color: rgb(64, 123, 105);
+    color: rgb(52, 59, 103);
 }
 .content{
-    border: solid 1px gray;
+    border: solid 1px rgb(98, 26, 26);
     padding: 20px;
     margin-top: 10px;
 }
@@ -37,12 +37,12 @@ body{
     letter-spacing: 0.05em; 
     text-decoration: none;
     font-size: large;
-    color: rgb(154, 84, 37);
+    color: rgb(232, 223, 217);
     padding: 5px 25px;
     display: block;
 }
 #main_menu li a:hover{
     font-family: Arial, sans-serif; 
     letter-spacing: 0.05em; 
-    color: brown;
+    color: rgb(231, 212, 212);
 }
